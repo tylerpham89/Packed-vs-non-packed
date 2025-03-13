@@ -4,15 +4,15 @@
 
 -   First we will be looking at the not packed file:
 
-    -   ![](images/media/image1.png)
+    -   ![](images/media/image5.png)
 
     -   By clicking on signatures we get this:
 
-    -   ![](images/media/image5.png)
+    -   ![](images/media/image1.png)
 
     -   By clicking on advanced \> entropy we get this:
 
-    -   
+    -   ![](images/media/image4.png)
 
     -   Analyzing this we can see that,
 
@@ -39,7 +39,7 @@
 
 -   Let\'s look at it inside of DIE
 
-    -   ![](images/media/image4.png)
+    -   ![](images/media/image2.png)
 
     -   Unfortunately, I was not able to look at the packed file before
         I unpacked it. However, looking at the entropy levels we do get
