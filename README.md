@@ -32,14 +32,14 @@
 
 -   unpacked the packed file with UPX
 
-    -   ![](images/media/image6.png)
+    -   ![](images/media/image2.png)
 
     -   We can see that the ratio is 65.28% and the format is of
         win32/pe
 
 -   Let\'s look at it inside of DIE
 
-    -   ![](images/media/image2.png)
+    -   ![](images/media/image6.png)
 
     -   Unfortunately, I was not able to look at the packed file before
         I unpacked it. However, looking at the entropy levels we do get
