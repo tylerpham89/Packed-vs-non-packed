@@ -1,17 +1,14 @@
 -   Detect it easy downloaded through github
 
-    -   ![](images/media/image3.png){width="4.092332677165355in"
-        height="3.0364588801399823in"}
+    -   ![](images/media/image3.png)
 
 -   First we will be looking at the not packed file:
 
-    -   ![](images/media/image1.png){width="3.7619925634295712in"
-        height="2.740334645669291in"}
+    -   ![](images/media/image1.png)
 
     -   By clicking on signatures we get this:
 
-    -   ![](images/media/image5.png){width="4.2607983377077865in"
-        height="2.1406255468066493in"}
+    -   ![](images/media/image5.png)
 
     -   By clicking on advanced \> entropy we get this:
 
@@ -35,16 +32,14 @@
 
 -   unpacked the packed file with UPX
 
-    -   ![](images/media/image6.png){width="5.067708880139983in"
-        height="3.029255249343832in"}
+    -   ![](images/media/image6.png)
 
     -   We can see that the ratio is 65.28% and the format is of
         win32/pe
 
 -   Let\'s look at it inside of DIE
 
-    -   ![](images/media/image4.png){width="4.398265529308836in"
-        height="2.2343755468066493in"}
+    -   ![](images/media/image4.png)
 
     -   Unfortunately, I was not able to look at the packed file before
         I unpacked it. However, looking at the entropy levels we do get
